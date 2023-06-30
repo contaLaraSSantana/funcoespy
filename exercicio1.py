@@ -5,7 +5,7 @@ def area(largura,comprimento):
     a = largura*comprimento
     print('A área é de:', a)
 
-area(int(input('Digite a largura:')), int(input('Digite o comprimento:')))
+area(float(input('Digite a largura:')), float(input('Digite o comprimento:')))
 
 
 

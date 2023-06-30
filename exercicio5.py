@@ -4,6 +4,6 @@
 #não tenha sido informado corretamente
 
 def ficha(nome="", gol=0):
-    print("O nome do jogador é ",nome,"A quantidade de gols foi de ",gol)
+    print("O nome do jogador é ",nome," e a quantidade de gols foi de ",gol)
 
-ficha(gol=10)
+ficha(nome='Bruno')
